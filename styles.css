@@ -20,3 +20,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
     
     
+/*buttons*/
+.btn-container{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.btn{
+  background-color: white;
+  border: 2px solid var(--light-pink);
+  border-radius: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: var(--light-pink);
+}
+
+.btn-2{
+  background-color: var(--light-pink);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  border: none;
+}
+    
