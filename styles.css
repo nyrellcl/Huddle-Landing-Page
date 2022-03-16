@@ -38,6 +38,8 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   color: var(--light-pink);
+  padding: 0.5rem 1.5rem;
+}
 }
 
 .btn-2{
@@ -45,6 +47,9 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   border: none;
+  padding: 1.5rem 6rem;
+  border-radius: 2rem;
+  color: white;
 }
 
 /*Header*/
@@ -53,5 +58,24 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+
+
+
+/*Title*/
+
+.title-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  padding-top: 10rem;
 }
     
