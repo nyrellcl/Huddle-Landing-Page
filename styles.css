@@ -185,6 +185,7 @@
 .your-users-container {
   display: flex;
   align-items: center;
+  margin: 8rem 0;
 }
 
 .users-title{
