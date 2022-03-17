@@ -139,6 +139,7 @@
   background-image: url('./images/bg-section-top-desktop-1.svg');
   background-repeat: no-repeat;
   background-position: center;
+  margin: 8rem 0;
 }
 
 .grow-illustration {
@@ -158,4 +159,23 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 1.25rem;
 }
-    
+
+/*Flowing Conversations*/
+
+.flowing-container {
+  display: flex;
+  align-items: center;
+  margin: 8rem 0;
+}
+
+.flow-title {
+  padding: 0 15rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+}
+
+.flow-description {
+  padding: 0 15rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25rem;
+}
