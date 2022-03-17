@@ -25,11 +25,20 @@
     
     
 /*buttons*/
-.btn-container{
+.btn-container-1{
   display: flex;
   justify-content: center; 
   align-items: center;
 }
+
+.btn-container-2{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin: 3rem;
+}
+
+
 
 .btn{
   background-color: white;
@@ -77,5 +86,12 @@
   font-weight: 700;
   font-size: 2.5rem;
   padding-top: 10rem;
+}
+
+.title-description {
+  padding: 0 18rem;
+  font-size: 1.25rem;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
     
