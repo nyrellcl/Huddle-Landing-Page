@@ -129,4 +129,29 @@
   font-size: 1.25rem;
   text-align: center;
 }
+
+/*Grow together*/
+
+.grow-together-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grow-illustration {
+  height: 100%;
+  width: 400px;
+}
+
+.grow-title{
+  padding: 0 10rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.grow-details{
+  padding: 0 10rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25rem;
+}
     
