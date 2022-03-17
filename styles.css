@@ -210,4 +210,10 @@
   align-items: center;
   background-image: url('./images/
 }
+
+.build-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
   
