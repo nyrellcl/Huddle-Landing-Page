@@ -179,3 +179,23 @@
   font-family: 'Open Sans', sans-serif;
   font-size: 1.25rem;
 }
+
+/*Your users*/
+
+.your-users-container {
+  display: flex;
+  align-items: center;
+}
+
+.users-title{
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  padding: 0 15rem;
+}
+
+.users-descriptions{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25rem;
+  padding: 0 15rem;
+}
+  
