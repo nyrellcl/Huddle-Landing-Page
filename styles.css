@@ -221,6 +221,8 @@
 .footer-container{
   color: var(--very-pale-blue);
   padding: 4rem;
+  display: flex;
+  background-color: var(--very-dark-cyan);
 }
 
 .contacts{
