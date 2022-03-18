@@ -230,7 +230,7 @@ body{
   background-image: url('./images/bg-footer-top-desktop.svg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: -850px;
+  background-position-x: -650px;
 }
 
 .huddle-footer-icon{
@@ -242,6 +242,8 @@ body{
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   color: var(--very-pale-blue);
+  font-size: 3rem;
+  margin: 0 0.5rem;
 }
 
 .contacts{
