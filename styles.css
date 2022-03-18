@@ -258,7 +258,8 @@ body{
 }
 
 .contact-links-description {
-    margin-left: 1rem;
+  margin-left: 1rem;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .footer-description, .newsletter-description{
