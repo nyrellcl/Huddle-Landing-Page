@@ -345,6 +345,11 @@ body{
   margin: 3rem;
 }
 
+.footer-container{
+  display: flex;
+  flex-direction: column-reverse;
+} 
+
 .screen-mockup{
   width: 100%;
 }
