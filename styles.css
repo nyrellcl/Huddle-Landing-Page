@@ -327,4 +327,11 @@ body{
   font-weight: 700;
 }
 
+#subscribe:hover{
+  cursor: pointer;
+  background-color: white;
+  color: var(--light-pink);
+  border 2px solid var(--light-pink);
+}
+
 
