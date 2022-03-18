@@ -76,6 +76,10 @@
   cursor: pointer;
 }
 
+body{
+  margin: 0;
+}
+
 /*Header*/
 
 .nav-bar{
@@ -228,6 +232,7 @@
 .contacts{
   display: flex;
   flex-direction: column;
+  margin-right: 15rem;
 }
 
 .contact-icons{
@@ -235,9 +240,14 @@
   align-items: center;
 }
 
+.contact-links-description {
+    margin-left: 1rem;
+}
+
 .footer-description, .newsletter-description{
   font-family: 'Open Sans', sans-serif;
   font-size: 0.85rem;
+  padding-right: 10rem;
 }
 
 .newsletter{
