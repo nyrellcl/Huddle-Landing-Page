@@ -259,11 +259,13 @@ body{
   display: flex;
   align-items: center;
   background-color: var(--very-dark-cyan);
+  margin-top: 3rem;
 }
 
 .contact-size{
   width: 40px;
   height: 40px;
+  margin-right: 2rem;
 }
 
 
