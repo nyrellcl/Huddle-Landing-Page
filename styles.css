@@ -255,4 +255,16 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 
+.footer-contact-logos{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--very-dark-cyan);
+}
+
+.contact-sizes{
+  width: 40px;
+  height: 40px;
+}
+
 
