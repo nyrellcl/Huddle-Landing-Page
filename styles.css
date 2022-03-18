@@ -237,6 +237,7 @@
 
 .footer-description, .newsletter-description{
   font-family: 'Open Sans', sans-serif;
+  font-size: 0.85rem;
 }
 
 .newsletter{
