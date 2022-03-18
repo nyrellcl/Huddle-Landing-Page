@@ -335,4 +335,15 @@ body{
   border: 2px solid var(--light-pink);
 }
 
+/*Mobile*/
+
+@media only screen and (max-width: 500px);
+
+.grow-together-container, .flowing-container, .your-users-container {
+  flex-direction: column;
+  justify-content: center;
+  margin: 3rem;
+}
+}
+
 
