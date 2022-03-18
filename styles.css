@@ -339,11 +339,24 @@ body{
 
 @media only screen and (max-width: 500px);
 
-.grow-together-container, .flowing-container, .your-users-container {
+.flowing-container {
   flex-direction: column;
   justify-content: center;
   margin: 3rem;
 }
+
+.grow-together-container{
+  flex-direction: column-reverse;
+  justify-content: center;
+  margin: 3rem;
+}
+
+.your-users-container{
+  flex-direction: column-reverse;
+  justify-content: center;
+  margin: 3rem;
+}
+  
 
 .footer-container{
   display: flex;
@@ -361,6 +374,25 @@ body{
 .grow-details{
   padding: 0 5rem;
   text-align: center;
+}
+
+.title-description{
+  padding: 0;
+}
+
+.title{
+  padding: 2rem 0.5rem;
+  text-align: center;
+}
+
+.btn-2{
+  padding: 1rem 1.5rem;
+  border-radius: 1.5rem;
+}
+
+.grow-title{
+  text-align: center;
+  padding: 0 6rem;
 }
 
 
