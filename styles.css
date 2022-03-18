@@ -395,4 +395,28 @@ body{
   padding: 0 6rem;
 }
 
+.flow-title{
+  text-align: center;
+  padding: 0 5rem;
+} 
+
+.flow-description{
+  padding: 0 7rem;
+  text-align: center;
+}
+
+.users-title{
+  text-align: center;
+  paddding: 0;
+}
+
+.users-description{
+  text-align: center;
+  padding: 0;
+}
+
+.build-title{
+  text-align: center;
+}
+
 
