@@ -433,6 +433,10 @@ body{
   margin-bottom: 2.5rem;
 }
 
+#subscribe{
+  margin: 0;
+}
+
 .newsletter{
   text-align: center;
 }
