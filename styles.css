@@ -441,9 +441,14 @@ body{
   text-align: center;
 }
 
-.newsletter-description{
+.newsletter-description, .footer-description{
   padding: 0;
   text-align: center;
 }
+
+.contacts{
+  margin: 0;
+}
+
 
 
