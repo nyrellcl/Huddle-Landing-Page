@@ -385,6 +385,11 @@ body{
   text-align: center;
 }
 
+.btn{
+  padding: 0.25rem 3.5rem;
+  margin: 3rem;
+}
+
 .btn-2{
   padding: 1rem 1.5rem;
   border-radius: 1.5rem;
