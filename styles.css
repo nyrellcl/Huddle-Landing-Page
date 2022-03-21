@@ -218,6 +218,10 @@ body{
 
 /*Footer*/
 
+.footer-top {
+  display: inherit;
+}
+
 .footer-container{
   color: var(--very-pale-blue);
   padding: 4rem;
