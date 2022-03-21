@@ -141,8 +141,6 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-image: url('./images/bg-section-top-desktop-1.svg');
-  background-repeat: no-repeat;
   background-position: center;
   margin: 8rem 0;
 }
