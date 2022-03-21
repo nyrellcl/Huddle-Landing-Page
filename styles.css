@@ -339,7 +339,7 @@ body{
 .flowing-container {
   flex-direction: column;
   justify-content: center;
-  margin: 3rem;
+  margin: 0;
 }
 
 .grow-together-container{
@@ -383,7 +383,7 @@ body{
 }
 
 .btn-2{
-  padding: 0.25rem 7.5rem;
+  padding: 0.25rem 6.5rem;
   border-radius: 1.5rem;
 }
 
@@ -415,6 +415,10 @@ body{
   text-align: center;
   padding: 0;
 }
+  
+  .build-container{
+    margin: 0 auto;
+  }
 
 .build-title{
   text-align: center;
@@ -427,6 +431,7 @@ body{
 
 #email{
   margin-bottom: 2.5rem;
+  padding: 1rem 2.5rem;
 }
 
 #subscribe{
