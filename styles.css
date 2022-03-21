@@ -338,7 +338,7 @@ body{
 
 /*Mobile*/
 
-@media only screen and (max-width: 500px);
+@media only screen and (max-width: 500px){
 
 .flowing-container {
   flex-direction: column;
@@ -464,6 +464,7 @@ body{
 
 .contact-size{
   margin-left: 2rem;
+}
 }
 
 
