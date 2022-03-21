@@ -398,6 +398,7 @@ body{
 
 .btn-2{
   padding: 1.5rem 2.5rem;
+  box-shadow: none;
 }
 
 .grow-title{
@@ -435,6 +436,7 @@ body{
 
 .build-title{
   text-align: center;
+  margin: 1rem;
 }
 
 .form-container{
