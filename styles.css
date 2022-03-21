@@ -264,9 +264,9 @@ body{
 
 .footer-description, .newsletter-description{
   font-family: 'Open Sans', sans-serif;
-  font-size: 0.85rem;
+  font-size: 1rem;
   padding-right: 10rem;
-  line-height: 1.25rem;
+  line-height: 1.5rem;
 }
 
 .newsletter{
