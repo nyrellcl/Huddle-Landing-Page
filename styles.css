@@ -18,6 +18,10 @@
 
 /*Body*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+*{
+  overflow-x: hidden;
+}
     
     
 /*buttons*/
@@ -335,6 +339,14 @@ body{
 /*Mobile*/
 
 @media only screen and (max-width: 500px){
+  
+  .nav-bar{
+    margin: 1.5rem 1rem;
+  }
+  
+  .nav-bar > img{
+    width: 50%;
+  }
 
 .flowing-container {
   flex-direction: column;
@@ -366,6 +378,7 @@ body{
 
 .users-container{
   flex-direction: column;
+  margin: 0 2rem;
 }
 
 .grow-details{
@@ -375,6 +388,7 @@ body{
 
 .title-description{
   padding: 0;
+  margin: 1rem;
 }
 
 .title{
@@ -383,8 +397,7 @@ body{
 }
 
 .btn-2{
-  padding: 0.25rem 6.5rem;
-  border-radius: 1.5rem;
+  padding: 1.5rem 2.5rem;
 }
 
 .grow-title{
