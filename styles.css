@@ -81,7 +81,7 @@ body{
 
 /*Disable Mobile*/
 
-#mobile-bg{
+.mobile-bg{
   display: none;
 }
 
@@ -349,12 +349,12 @@ curved top and bottom background*/
 @media only screen and (max-width: 500px){
   
   /*Disable Desktop*/
-  #desktop-bg, .bg-inherit{
+  .bg-inherit{
     display: none;
   }
   
   /*Enable Mobile Img*/
-  #mobile-bg{
+  .mobile-bg{
     display: inherit;
     width: 100%;
   }
