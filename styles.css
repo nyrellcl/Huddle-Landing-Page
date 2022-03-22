@@ -231,6 +231,7 @@ body{
 curved top and bottom background*/
 .bg-inherit {
   display: inherit;
+  width: 100%;
 }
 
 .footer-container{
