@@ -235,9 +235,6 @@ curved top and bottom background*/
   padding: 4rem;
   display: flex;
   background-color: var(--very-dark-cyan);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: -600px;
 }
 
 .huddle-footer-icon{
