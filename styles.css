@@ -218,7 +218,9 @@ body{
 
 /*Footer*/
 
-.footer-top {
+/*This will make the image inherit the background of the next element in the HTML file. Will remove the white line separating the img and div container making a 
+curved top and bottom background*/
+.bg-inherit {
   display: inherit;
 }
 
