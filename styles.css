@@ -45,6 +45,7 @@
   color: var(--light-pink);
   padding: 0.5rem 1.5rem;
   font-size: 1rem;
+  transition: all 250ms;
 }
 
 .btn:hover{
@@ -64,6 +65,7 @@
   color: white;
   font-size: 1.2rem;
   box-shadow: 0 4px 2px rgb(0 0 0 / 2%), 0 8px 6px rgb(0 0 0 / 3%), 0 16px 10px rgb(0 0 0 / 4%), 0 26px 18px rgb(0 0 0 / 5%);
+  transition: all 250ms;
 }
 
 .btn-2:hover{
@@ -331,6 +333,7 @@ curved top and bottom background*/
   margin-left: 2rem;
   font-size: 1.2rem;
   font-weight: 700;
+  transition: all 250ms;
 }
 
 #subscribe:hover{
@@ -408,10 +411,15 @@ curved top and bottom background*/
   padding: 2rem 0.5rem;
   text-align: center;
 }
+  .btn{
+    transition: none;
+  }
+  
 
 .btn-2{
   padding: 1.5rem 2.5rem;
   box-shadow: none;
+  transition: none;
 }
 
 .grow-title{
@@ -464,6 +472,7 @@ curved top and bottom background*/
 
 #subscribe{
   margin: 0;
+  transition: none;
 }
 
 .newsletter{
