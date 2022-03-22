@@ -76,6 +76,12 @@ body{
   margin: 0;
 }
 
+/*Disable Mobile*/
+
+#mobile-bg{
+  display: none;
+}
+
 /*Header*/
 
 .nav-bar{
@@ -340,6 +346,16 @@ curved top and bottom background*/
 /*Mobile*/
 
 @media only screen and (max-width: 500px){
+  
+  /*Disable Desktop*/
+  #desktop-bg{
+    display: none;
+  }
+  
+  /*Enable Mobile Img*/
+  #mobile-bg{
+    display: inherit;
+  }
   
   *{
   overflow-x: hidden;
