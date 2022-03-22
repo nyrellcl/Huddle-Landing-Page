@@ -347,7 +347,7 @@ curved top and bottom background*/
 @media only screen and (max-width: 500px){
   
   /*Disable Desktop*/
-  #desktop-bg{
+  #desktop-bg, .bg-inherit{
     display: none;
   }
   
@@ -377,7 +377,6 @@ curved top and bottom background*/
 .grow-together-container, .your-users-container{
   flex-direction: column-reverse;
   justify-content: center;
-  margin: 3rem;
   
 }
   
