@@ -145,7 +145,7 @@ body{
   justify-content: space-between;
   align-items: center;
   background-position: center;
-  margin: 8rem 0;
+  background-color: var(--very-pale-blue);
 }
 
 .grow-illustration {
@@ -191,7 +191,7 @@ body{
 .your-users-container {
   display: flex;
   align-items: center;
-  margin: 8rem 0;
+  background-color: var(--very-pale-blue);
 }
 
 .users-title{
@@ -234,7 +234,6 @@ curved top and bottom background*/
   color: var(--very-pale-blue);
   padding: 4rem;
   display: flex;
-  /*background-image: url('./images/bg-footer-top-desktop.svg');*/
   background-color: var(--very-dark-cyan);
   background-repeat: no-repeat;
   background-size: cover;
@@ -379,7 +378,7 @@ curved top and bottom background*/
   flex-direction: column-reverse;
   justify-content: center;
   margin: 3rem;
-  background-color: var(--very-pale-blue);
+  
 }
   
 
