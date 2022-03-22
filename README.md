@@ -16,3 +16,7 @@ CSS flexbox: Before this project, i already had a good basic understanding of fl
 The part of the project where I was baffled the most was the curvy backgrounds. Initially, I was completely stuck on how to get both the background containers and curvy images to become one. I decided to hold off on that part till the last so I can spend the most time on it. Although the solution was so so so simple, figuring out what I had to use to solve my problem was really fun. The solution was a really basic display: inherit; But I kept overthinking it and setting background images trying to make something simple more complex. 
 
 When I figured out that I can just use one simple property I was utterly relieved and from that point on I just happily finished up this project. The sense of accomplishment and problem solving will always be something I look forward to in programming.
+
+# Next
+
+For improvements and strengthening my skills I want to add Javascript. I want to make it so when the user scrolls, the content fades in. This will help improve user experience and improve my skills with using Javascript. I've already searched up different ways to implement that feature, however, I first want to grasp the concept of have a more solid basic foundation of Javascript
