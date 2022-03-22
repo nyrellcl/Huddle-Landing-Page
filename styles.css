@@ -372,7 +372,7 @@ curved top and bottom background*/
 .flowing-container {
   flex-direction: column;
   justify-content: center;
-  margin: 0;
+  margin: 5rem 0;
 }
 
 .grow-together-container, .your-users-container{
