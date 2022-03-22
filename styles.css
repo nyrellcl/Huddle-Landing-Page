@@ -399,7 +399,7 @@ curved top and bottom background*/
 }
 
 .grow-details{
-  padding: 0 5rem;
+  padding: 0 1rem;
   text-align: center;
 }
 
@@ -438,7 +438,7 @@ curved top and bottom background*/
 } 
 
 .flow-description{
-  padding: 0 7rem;
+  padding: 0 2rem;
   text-align: center;
 }
 
@@ -449,7 +449,7 @@ curved top and bottom background*/
 
 .users-descriptions{
   text-align: center;
-  padding: 0;
+  padding: 0 1.5rem;
 }
   
   .build-container{
