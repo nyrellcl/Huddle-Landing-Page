@@ -354,6 +354,7 @@ curved top and bottom background*/
   /*Enable Mobile Img*/
   #mobile-bg{
     display: inherit;
+    width: 100%;
   }
   
   *{
