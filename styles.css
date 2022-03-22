@@ -375,16 +375,11 @@ curved top and bottom background*/
   margin: 0;
 }
 
-.grow-together-container{
+.grow-together-container, .your-users-container{
   flex-direction: column-reverse;
   justify-content: center;
   margin: 3rem;
-}
-
-.your-users-container{
-  flex-direction: column-reverse;
-  justify-content: center;
-  margin: 3rem;
+  background-color: var(--very-pale-blue);
 }
   
 
