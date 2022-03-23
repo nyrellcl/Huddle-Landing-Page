@@ -66,6 +66,7 @@
   font-size: 1.2rem;
   box-shadow: 0 4px 2px rgb(0 0 0 / 2%), 0 8px 6px rgb(0 0 0 / 3%), 0 16px 10px rgb(0 0 0 / 4%), 0 26px 18px rgb(0 0 0 / 5%);
   transition: all 250ms;
+  position: absolute;
 }
 
 .btn-2:hover{
